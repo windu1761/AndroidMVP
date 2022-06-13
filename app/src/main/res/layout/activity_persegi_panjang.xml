@@ -16,7 +16,7 @@
         android:fontFamily="@font/baloo_thambi"
         android:text="Menghitung Rumus Persegi Panjang"
         android:textAlignment="center"
-        android:textColor="#A59669"
+        android:textColor="#887A50"
         android:textSize="30sp"
         android:textStyle="bold" />
 
